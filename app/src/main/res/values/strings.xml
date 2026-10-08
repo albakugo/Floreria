@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Florería POS</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_inventory">Inventario Perecedero</string>
+    <string name="menu_sales">Punto de Venta</string>
+    <string name="menu_orders">Pedidos y Entregas</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="welcome_message">Bienvenido al sistema de gestión de floristería</string>
+</resources>
