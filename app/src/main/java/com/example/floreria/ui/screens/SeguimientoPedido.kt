@@ -1,11 +1,11 @@
-package com.example.floreria.ui.viewmodel
+package com.example.floreria.ui.screens
 
 import androidx.lifecycle.ViewModel
-import com.example.floreria.model.Cliente
-import com.example.floreria.model.EstadoPedido
-import com.example.floreria.model.Flor
-import com.example.floreria.model.ItemCarrito
-import com.example.floreria.model.Pedido
+import com.example.floreria.data.model.Cliente
+import com.example.floreria.data.model.EstadoPedido
+import com.example.floreria.data.model.Flor
+import com.example.floreria.data.model.ItemCarrito
+import com.example.floreria.data.model.Pedido
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
