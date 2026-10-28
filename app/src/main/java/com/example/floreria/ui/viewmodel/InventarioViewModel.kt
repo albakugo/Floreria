@@ -2,8 +2,8 @@ package com.example.floreria.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import com.example.floreria.data.InventarioRepository
-import com.example.floreria.model.Flor
-import com.example.floreria.model.Lote
+import com.example.floreria.data.model.Flor
+import com.example.floreria.data.model.Lote
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

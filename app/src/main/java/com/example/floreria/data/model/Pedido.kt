@@ -1,4 +1,4 @@
-package com.example.floreria.model
+package com.example.floreria.data.model
 
 import java.util.UUID
 

@@ -15,7 +15,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.floreria.model.Lote
+import com.example.floreria.data.model.Lote
 import com.example.floreria.ui.viewmodel.InventarioViewModel
 
 @Composable

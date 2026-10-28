@@ -15,7 +15,6 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.example.floreria.ui.viewmodel.InventarioViewModel
-import com.example.floreria.model.EstadoCaducidad
 
 @Composable
 fun LotesScreen(

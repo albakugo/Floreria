@@ -1,6 +1,6 @@
-package com.example.floreria.repository
+package com.example.floreria.data.repository
 
-import com.example.floreria.model.Venta
+import com.example.floreria.data.model.Venta
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
